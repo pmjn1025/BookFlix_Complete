@@ -17,6 +17,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Gugi&family=Hi+Melody&family=Jua&family=Stylish&display=swap"
           rel="stylesheet">
+    <link href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square-round.css" rel="stylesheet">
 
 
     <!-- JS -->
@@ -29,32 +30,38 @@
         }
 
         .section {
+
             padding: 1rem 1.5rem;
             max-width: 750px;
             margin: auto;
+            font-family: 'NanumSquareRound';
+
         }
 
         .title {
             font-weight: 800;
             font-size: 5rem;
-            font-family: 'Gamja Flower', cursive;
+            font-family: 'NanumSquareRound';
 
         }
 
         .is-sparta {
-            color: #e8344e !important;
+            color: #ffffff !important;
+            font-family: 'NanumSquareRound';
         }
 
         .button.is-sparta {
             background-color: #e8344e;
             border-color: transparent;
             color: #fff !important;
+            font-family: 'NanumSquareRound';
         }
 
         .button.is-sparta.is-outlined {
             background-color: transparent;
             border-color: #e8344e;
             color: #e8344e !important;
+            font-family: 'NanumSquareRound';
         }
         .button.is-left{
             width:70px;
@@ -62,11 +69,15 @@
             background-color: #e8344e;
             border-color: transparent;
             color: #fff !important;
+            font-family: 'NanumSquareRound';
 
         }
-
         .help {
             color: gray;
+        }
+        .title-background{
+            background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://file.miricanvas.com/template_thumb/2021/06/08/19/30/k1hsbh4kihsi2e9x/thumb.jpg');
+
         }
     </style>
     <script>
@@ -114,7 +125,7 @@
 
 </head>
 <body>
-<section class="hero is-white">
+<section class="title-background">
     <button class="button is-left" onclick="window.location.href='/'">홈으로</button>
     <div class="hero-body has-text-centered" style="padding-bottom:1rem;margin:auto;">
         <h1 class="title is-sparta">로그인 페이지</h1>
