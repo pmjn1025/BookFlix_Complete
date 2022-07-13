@@ -16,6 +16,9 @@
 
     <!-- Bulma CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+    <!-- 네이버 폰트 나눔스퀘어라운드   -->
+    <link href="https://hangeul.pstatic.net/hangeul_static/css/nanum-square-round.css" rel="stylesheet">
+
     <!-- Font Awesome CSS -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <!-- 기존 CSS 파일은 Bulma CSS 링크 아래에 위치해야 된다    -->
@@ -28,6 +31,19 @@
     <!-- 구글 폰트    -->
     <link href="https://fonts.googleapis.com/css2?family=Cute+Font&family=Dongle&family=Gowun+Dodum&display=swap"
           rel="stylesheet">
+
+
+
+    <style>
+    /*
+    font-family: 'NanumSquareRoundLight';
+    font-family: 'NanumSquareRound';
+    font-family: 'NanumSquareRoundBold';
+    font-family: 'NanumSquareRoundExtraBold';
+    */
+
+
+    </style>
 
     <script>
           $(document).ready(function () {
@@ -109,6 +125,9 @@
 </nav>
 
 <section class="hero is-primary">
+
+   <img src="{{ url_for('static', filename='book3.jpg') }}" style="width:100%">
+
     <div class="hero-body">
         <p class="title">
             BookFlex
@@ -128,7 +147,7 @@
 
 <!--posting box-->
 <div class="wrap" id="wrap">
-    <input class="input is-rounded" id="url" type="text" placeholder="도서url" style="margin-bottom: 5px;">
+    <input class="input is-rounded" id="url" type="text" placeholder="도서url" style="margin-bottom: 5px; font-family: 'NanumSquareRound';">
 
     <div class="select is-rounded">
         <select id="star">
@@ -141,7 +160,7 @@
         </select>
     </div>
 
-    <input class="input is-rounded" id="comment" type="text" placeholder="Rounded input" style="margin-top: 5px;" >
+    <input class="input is-rounded" id="comment" type="text" placeholder="Rounded input" style="margin-top: 5px; font-family: 'NanumSquareRound';" >
 
     <div class="my_btn">
         <button onclick="post()" class="button is-normal">코멘트</button>
