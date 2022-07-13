@@ -49,13 +49,14 @@
         function post() {
              let url = $('#url').val();
              console.log(url);
-             if(url =='' & !url.includes("/")){
+             if(url ==''){
 
                 alert("url을 입력해주세요");
 
-             } else{
+             } else if(!url.includes("/")){
 
-                 let url = $('#url').val();
+                 alert("url을 입력해주세요");
+
              }
 
              let star = $('#star').val();
