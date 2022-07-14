@@ -1,21 +1,25 @@
 # pmjn1025-BookFlix_alpha
 
 b반 9조 북플릭스입니다. <br>
-S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-Starting-Assignment
+S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-Starting-Assignment <br>
 
 ![image](https://user-images.githubusercontent.com/76934018/178942458-5c592cbd-a5b9-4072-b1e7-c3425bb75dae.png)
-
+![image](https://user-images.githubusercontent.com/76934018/178942619-0a5e997a-7577-41da-86ef-86f9d2b284ba.png)
+![image](https://user-images.githubusercontent.com/76934018/178942637-9d816c21-cce2-4809-a770-cc11ebd1f9cb.png)
+![image](https://user-images.githubusercontent.com/76934018/178942653-39f2059e-8161-49ba-849e-ee29c2f3ea07.png)
+![image](https://user-images.githubusercontent.com/76934018/178942678-ad858af1-f56f-4d80-a5a4-0975060a7ac4.png)
+ <br>
 1.  프로젝트명
  : 북플릭스 (BOOKFLIX) 
-
+ <br>
 2. 소개
 - 자신이 읽은 책들에 대해 간단한 리뷰를 등록할 수 있는 페이지입니다. 
-
+ <br>
 3. 와이어프레임
-
+ <br>
 1)홈 화면
 ![image](https://user-images.githubusercontent.com/76934018/178941364-8e71d5ba-a8e1-4b17-b52d-e5f9765657d0.png)
-
+ <br>
 2)로그인 페이지
 ![image](https://user-images.githubusercontent.com/76934018/178941399-59b10c07-1cd8-479e-8437-7f760056707a.png)
 
