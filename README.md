@@ -3,6 +3,8 @@
 b반 9조 북플릭스입니다. <br>
 S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-Starting-Assignment
 
+![image](https://user-images.githubusercontent.com/76934018/178942458-5c592cbd-a5b9-4072-b1e7-c3425bb75dae.png)
+
 1.  프로젝트명
  : 북플릭스 (BOOKFLIX) 
 
@@ -12,7 +14,6 @@ S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-St
 3. 와이어프레임
 
 1)홈 화면
-
 ![image](https://user-images.githubusercontent.com/76934018/178941364-8e71d5ba-a8e1-4b17-b52d-e5f9765657d0.png)
 
 2)로그인 페이지
