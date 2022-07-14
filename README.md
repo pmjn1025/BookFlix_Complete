@@ -3,10 +3,10 @@ b반 9조 북플릭스입니다.
 S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-Starting-Assignment
 
 1.  프로젝트명
-북플릭스 (BOOKFLIX) 
+ : 북플릭스 (BOOKFLIX) 
 
 2. 소개
-자신이 읽은 책들에 대해 간단한 리뷰를 등록할 수 있는 페이지입니다. 
+- 자신이 읽은 책들에 대해 간단한 리뷰를 등록할 수 있는 페이지입니다. 
 
 3. 와이어프레임
 
