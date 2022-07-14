@@ -1,5 +1,6 @@
 # pmjn1025-BookFlix_alpha
-b반 9조 북플릭스입니다.
+
+b반 9조 북플릭스입니다. <br>
 S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-Starting-Assignment
 
 1.  프로젝트명
@@ -10,17 +11,20 @@ S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-St
 
 3. 와이어프레임
 
-1)로그인 페이지
-![image](https://user-images.githubusercontent.com/76934018/178859813-f0fc61f5-0a24-4747-9548-c5d9f9d9505d.png)
+1)홈 화면
+![image](https://user-images.githubusercontent.com/76934018/178941364-8e71d5ba-a8e1-4b17-b52d-e5f9765657d0.png)
 
-2)회원가입 페이지
-![image](https://user-images.githubusercontent.com/76934018/178859980-1163cd47-a910-486d-884e-f2bb2f8f526f.png)
+2)로그인 페이지
+![image](https://user-images.githubusercontent.com/76934018/178941399-59b10c07-1cd8-479e-8437-7f760056707a.png)
 
-3)메인 페이지
-![image](https://user-images.githubusercontent.com/76934018/178860081-58f3b440-f860-4aeb-8c1e-ec42ac87b331.png)
+3)회원가입 페이지
+![image](https://user-images.githubusercontent.com/76934018/178941444-f4d345a5-cb24-4cb2-adf8-06019785e05d.png)
 
-4)프로필 페이지
+4)메인 페이지
+![image](https://user-images.githubusercontent.com/76934018/178941506-49c38c57-02f4-43e3-945e-3b309d04e713.png)
 
+5)프로필 페이지
+![image](https://user-images.githubusercontent.com/76934018/178941589-896c88fc-169d-464b-887c-23dfad5a1365.png)
 
 4. 개발 기능 계획 및 기술 매니저님께 피드백 받은 내용
 
