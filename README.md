@@ -11,25 +11,25 @@ S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-St
  <br>
 1.  프로젝트명
  : 북플릭스 (BOOKFLIX) 
- <br>
+
 2. 소개
 - 자신이 읽은 책들에 대해 간단한 리뷰를 등록할 수 있는 페이지입니다. 
- <br>
+
 3. 와이어프레임
- <br>
-1)홈 화면
+
+ 1)홈 화면
 ![image](https://user-images.githubusercontent.com/76934018/178941364-8e71d5ba-a8e1-4b17-b52d-e5f9765657d0.png)
- <br>
-2)로그인 페이지
+
+ 2)로그인 페이지
 ![image](https://user-images.githubusercontent.com/76934018/178941399-59b10c07-1cd8-479e-8437-7f760056707a.png)
 
-3)회원가입 페이지
+ 3)회원가입 페이지
 ![image](https://user-images.githubusercontent.com/76934018/178941444-f4d345a5-cb24-4cb2-adf8-06019785e05d.png)
 
-4)메인 페이지
+ 4)메인 페이지
 ![image](https://user-images.githubusercontent.com/76934018/178941506-49c38c57-02f4-43e3-945e-3b309d04e713.png)
 
-5)프로필 페이지
+ 5)프로필 페이지
 ![image](https://user-images.githubusercontent.com/76934018/178941589-896c88fc-169d-464b-887c-23dfad5a1365.png)
 
 4. 개발 기능 계획 및 기술 매니저님께 피드백 받은 내용
