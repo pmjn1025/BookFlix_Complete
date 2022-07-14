@@ -12,11 +12,15 @@ S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-St
 
 1)로그인 페이지
 ![image](https://user-images.githubusercontent.com/76934018/178859813-f0fc61f5-0a24-4747-9548-c5d9f9d9505d.png)
+
 2)회원가입 페이지
 ![image](https://user-images.githubusercontent.com/76934018/178859980-1163cd47-a910-486d-884e-f2bb2f8f526f.png)
+
 3)메인 페이지
 ![image](https://user-images.githubusercontent.com/76934018/178860081-58f3b440-f860-4aeb-8c1e-ec42ac87b331.png)
+
 4)프로필 페이지
+
 
 4. 개발 기능 계획 및 기술 매니저님께 피드백 받은 내용
 
@@ -44,6 +48,7 @@ S.A 상세 설명 : https://danwoo2.tistory.com/entry/Chapter-1-9%EC%A1%B0-SA-St
 
 2) 최종 수정
 ![최종 수정](https://user-images.githubusercontent.com/76934018/178860696-d002eaec-a225-4342-8cf0-eda9aff8b57a.png)
+
 
 1. 로그인 페이지
 
